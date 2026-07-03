@@ -1,0 +1,87 @@
+# Marketing Israel — Generative Engine Optimization Map
+
+> A Hebrew-language marketing blog targeting the Israeli market, operating under the English brand name 'Marketing Israel'. The blog focuses on marketing topics and is designed for Hebrew-speaking audiences, with an English logo giving it a professional and international feel.
+
+---
+
+## Pages
+
+### בית
+https://marketing-israel-3441887e.zappy5.app
+בלוג שיווק ישראלי מוביל עם תובנות מעמיקות על B2B אונליין ושיווק תוכן. קבלו טיפים, כלים ואסטרטגיות שיקדמו את העסק שלכם עוד היום.
+
+### מאמרים
+https://marketing-israel-3441887e.zappy5.app/articles
+מאמרים מקצועיים על שיווק תוכן, B2B אונליין ומגמות דיגיטליות בישראל. היכנסו לקרוא רעיונות חדשניים שישנו את הדרך שבה אתם משווקים.
+
+### מדריכים
+https://marketing-israel-3441887e.zappy5.app/guides
+מדריכים מעשיים צעד-אחר-צעד לשיווק דיגיטלי, B2B אונליין ושיווק תוכן בישראל. התחילו ליישם טקטיקות מנצחות ולהניב תוצאות אמיתיות.
+
+### אודות
+https://marketing-israel-3441887e.zappy5.app/about
+הכירו את הצוות שמאחורי &#39;Marketing Israel&#39; – בלוג שיווק ישראלי שמחבר אתכם לעולם התוכן, ה-B2B אונליין והאסטרטגיות הדיגיטליות החכמות ביותר.
+
+### צור קשר
+https://marketing-israel-3441887e.zappy5.app/contact
+צרו קשר עם &#39;Marketing Israel&#39; לשיתופי פעולה, ייעוץ שיווקי או שאלות על שיווק תוכן ו-B2B אונליין בישראל. אנחנו כאן כדי להזניק אתכם קדימה.
+
+### תודה שפנית אלינו
+https://marketing-israel-3441887e.zappy5.app/thank-you
+Marketing Israel - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://marketing-israel-3441887e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://marketing-israel-3441887e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://marketing-israel-3441887e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://marketing-israel-3441887e.zappy5.app/contact
+- Endpoint: https://marketing-israel-3441887e.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Marketing Israel
+A Hebrew-language marketing blog targeting the Israeli market, operating under the English brand name 'Marketing Israel'. The blog focuses on marketing topics and is designed for Hebrew-speaking audiences, with an English logo giving it a professional and international feel.
+
+## Target Audience
+- בעלי עסקים קטנים
+- מקצועני שיווק
+- אנשי מכירות
+- מרקום
+
+## Industry
+Marketing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://marketing-israel-3441887e.zappy5.app/sitemap.xml
+- Robots: https://marketing-israel-3441887e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://marketing-israel-3441887e.zappy5.app/llms-full.txt
