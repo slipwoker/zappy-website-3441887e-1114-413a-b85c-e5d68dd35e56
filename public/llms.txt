@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://marketing-israel-3441887e.zappy5.app
+https://example.com
 בלוג שיווק ישראלי מוביל עם תובנות מעמיקות על B2B אונליין ושיווק תוכן. קבלו טיפים, כלים ואסטרטגיות שיקדמו את העסק שלכם עוד היום.
 
 ### מאמרים
-https://marketing-israel-3441887e.zappy5.app/articles
+https://example.com/articles
 מאמרים מקצועיים על שיווק תוכן, B2B אונליין ומגמות דיגיטליות בישראל. היכנסו לקרוא רעיונות חדשניים שישנו את הדרך שבה אתם משווקים.
 
 ### מדריכים
-https://marketing-israel-3441887e.zappy5.app/guides
+https://example.com/guides
 מדריכים מעשיים צעד-אחר-צעד לשיווק דיגיטלי, B2B אונליין ושיווק תוכן בישראל. התחילו ליישם טקטיקות מנצחות ולהניב תוצאות אמיתיות.
 
 ### אודות
-https://marketing-israel-3441887e.zappy5.app/about
+https://example.com/about
 הכירו את הצוות שמאחורי &#39;Marketing Israel&#39; – בלוג שיווק ישראלי שמחבר אתכם לעולם התוכן, ה-B2B אונליין והאסטרטגיות הדיגיטליות החכמות ביותר.
 
 ### צור קשר
-https://marketing-israel-3441887e.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם &#39;Marketing Israel&#39; לשיתופי פעולה, ייעוץ שיווקי או שאלות על שיווק תוכן ו-B2B אונליין בישראל. אנחנו כאן כדי להזניק אתכם קדימה.
 
 ### תודה שפנית אלינו
-https://marketing-israel-3441887e.zappy5.app/thank-you
+https://example.com/thank-you
 Marketing Israel - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://marketing-israel-3441887e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://marketing-israel-3441887e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://marketing-israel-3441887e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://marketing-israel-3441887e.zappy5.app/contact
-- Endpoint: https://marketing-israel-3441887e.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -82,6 +82,6 @@ Marketing
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://marketing-israel-3441887e.zappy5.app/sitemap.xml
-- Robots: https://marketing-israel-3441887e.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://marketing-israel-3441887e.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
